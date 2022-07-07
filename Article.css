@@ -1,0 +1,15 @@
+header{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: white;
+}
+body {
+    border: 2px solid black;
+}
+p{
+    font-weight: bold;
+}
